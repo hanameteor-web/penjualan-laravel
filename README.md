@@ -1,6 +1,6 @@
 # Project CRUD Penjualan - Laravel 10
 
-Project ini dibuat sebagai bagian dari **tes masuk perusahaan** untuk menunjukkan kemampuan dalam membangun aplikasi berbasis **Laravel Framework**.  
+Project ini dibuat sebagai bagian dari **** untuk menunjukkan kemampuan dalam membangun aplikasi berbasis **Laravel Framework**.  
 Aplikasi ini merupakan sistem **CRUD Penjualan**, di mana pengguna dapat menambah, mengedit, menghapus, dan melihat data penjualan dengan tampilan yang sederhana dan responsif.
 
 ---
