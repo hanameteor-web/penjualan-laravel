@@ -1,15 +1,30 @@
-# Project CRUD Penjualan Laravel
+# Project CRUD Penjualan - Laravel 10
 
-Project ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web Lanjut.
+Project ini dibuat sebagai bagian dari **tes masuk perusahaan** untuk menunjukkan kemampuan dalam membangun aplikasi berbasis **Laravel Framework**.  
+Aplikasi ini merupakan sistem **CRUD Penjualan**, di mana pengguna dapat menambah, mengedit, menghapus, dan melihat data penjualan dengan tampilan yang sederhana dan responsif.
 
-## Fitur:
-- Tambah, ubah, hapus data penjualan
+---
+
+## 🚀 Teknologi yang Digunakan
+- **Laravel 10**
+- **PHP 8+**
+- **MySQL / MariaDB**
+- **Bootstrap 5**
+- **Blade Template Engine**
+
+---
+
+## ⚙️ Fitur Aplikasi
+- Menampilkan daftar data penjualan
+- Menambah data penjualan baru
+- Mengedit dan menghapus data penjualan
 - Validasi input form
-- Menggunakan Laravel 10 dan Bootstrap 5
+- Tampilan responsive (Bootstrap)
+- Struktur folder sesuai standar Laravel (MVC)
 
-## Cara Menjalankan:
-1. Clone repository ini
-2. Jalankan `composer install`
-3. Salin `.env.example` ke `.env`
-4. Jalankan `php artisan key:generate`
-5. Jalankan `php artisan serve`
+---
+
+## 🧩 Cara Menjalankan Project
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/hanameteor-web/penjualan-laravel.git
